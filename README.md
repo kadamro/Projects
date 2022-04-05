@@ -1,2 +1,2 @@
-# Projects
-Master's Academic Projects
+The data is related to direct marketing campaigns (phone calls) of a banking institution. The target is to predict if the customer will subscribe to their term deposit.
+I started this project with a thorough preprocessing to filter the data by removing irrelevant observations and outliers. Several observations were made while visualizing different features individually and in relation to each other. In the end, I used boosting algorithms namely Catboost and XGBoost to predict the target variable.
